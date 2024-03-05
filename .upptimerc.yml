@@ -3,14 +3,14 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: HOKOHOST Main Site
+    url: https://hokohost.com
+  - name: Client Area
+    url: https://ca.hokohost.com
+  - name: LEO-HOKODNS
+    url: http://kath.hokodns.com
+  - name: KATH-HOKODNS
+    url: http://kath.hokodns.com
   - name: IPv6 test
     url: forwardemail.net
     port: 80
